@@ -2,6 +2,3 @@
 
 print("hohohohoho")
 
-print("Hiiiiiiiiiiiiiii!")
-
-# Test Again
